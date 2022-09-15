@@ -1,0 +1,12 @@
+{
+    "path": "/root/cqrobot/mao/",
+    "apikey": "",
+    "chaijunpath":"/root/cqrobot/chaijun/",
+    "gardenpath":"/root/cqrobot/gardencat/",
+    "maomaochongpath":"/root/cqrobot/maomaochong/",
+	"ban_words":["科学上网","黑产","翻墙","TM","傻逼","煞笔","sb","tm","SB","尼玛","NM","nm","mlgb","你妈"],
+    "group":[414215079,62662049,859913784,869306346],
+    "self_qq":"355160085",
+    "addfriend_word":"114514"
+}
+
